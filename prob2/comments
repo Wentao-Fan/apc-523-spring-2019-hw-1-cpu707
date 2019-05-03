@@ -1,0 +1,2 @@
+Your rounded x^{n} has way more digits than "five decimal digits" ("five decimal digits" is different from "five digits after the decimal point"). The subsequent relative errors are greatly underestimated because of it.
+You should validate your proposal in part (e).
