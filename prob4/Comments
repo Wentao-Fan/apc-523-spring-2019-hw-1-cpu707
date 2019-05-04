@@ -1,0 +1,2 @@
+Your plots are correct, but the legends are very confusing.
+In part (e), you are supposed to calculated the forward error, not the condition of the algorithm.
